@@ -17,7 +17,7 @@ This Python application fetches and displays current weather information for a s
 
 **API Key Setup:**
 - Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
-- Replace `API_KEY` in `weather_app.py` with your API key.
+- Replace `API_KEY` in the 'code' with your API key.
 
 ## Usage
 **Using the Application:**
